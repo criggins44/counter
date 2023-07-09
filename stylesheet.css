@@ -1,3 +1,13 @@
-#numberCounter{
-	font-size: 20em;
+#counter{
+	font-size: 15em;
+	text-align: center;
+}
+
+#buttonBox{
+	display: flex;
+	justify-content: space-around;
+}
+
+h1{
+	text-align: center;
 }
